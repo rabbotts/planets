@@ -1,1 +1,2 @@
 I live here.
+It is blue.
